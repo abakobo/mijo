@@ -1,0 +1,8 @@
+{
+	"module":"mijo",
+	"about":"Monkey2 app mini-framework",
+	"author":"Mark Sibly, abakobo",
+	"version":"1.0.0",
+	"support":"http://monkeycoders.boards.net/",
+	"depends":["freetype","emscripten","std","sdl2","openal"]
+}
